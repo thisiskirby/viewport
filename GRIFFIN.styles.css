@@ -315,6 +315,7 @@ img{
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
     img{
+        display: block;
         width: 100%;
         max-width: 300px;
     }
